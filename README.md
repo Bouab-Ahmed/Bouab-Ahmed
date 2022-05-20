@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bouab-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="bouab-ahmed" /> </p>
 
-- 🔭 I’m currently working on **Servy**
+- 🔭 I’m currently working on **something Interesting**
 
-- 🌱 I’m currently Trying to master **React, TailwindCSS**
+- 🌱 I’m currently Trying to master **MERN stack**
 
 - 💬 Ask me about **everything related to Front-end web development**
 
