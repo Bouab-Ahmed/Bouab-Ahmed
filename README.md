@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A Junior frontend developer from Elbayadh-Algeria</h3>
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Bouab-Ahmed/Bouab-Ahmed/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bouab-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="bouab-ahmed" /> </p>
 
 - 🔭 I’m currently working on **something Interesting**
