@@ -13,7 +13,7 @@
 
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
   I'm Ahmed
 </h1>
 
@@ -21,7 +21,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Bouab-Ahmed/Bouab-Ahmed/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Bouab-Ahmed/Bouab-Ahmed/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card" align="center"/></a>
 
 ---
 
