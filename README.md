@@ -28,9 +28,7 @@ I am a react/Javascript Developer <img src="https://media.giphy.com/media/WUlplc
 
 - 🔭 I’m currently working on **something Interesting**
 
-- 🌱 I’m currently Learning **Node js & Express js**
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I usually play video games or watch some movies lol.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ahmed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-bouab/)
 
