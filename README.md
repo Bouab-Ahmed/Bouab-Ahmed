@@ -26,7 +26,7 @@
 ### :man_technologist: About Me :
 I am a react/Javascript Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Algeria.
 
-- 🔭 I’m currently working on **something Interesting**
+- 🔭 I’m currently working on **something cool**
 
 - :zap: In my free time, I usually play video games or watch some movies lol.
 
