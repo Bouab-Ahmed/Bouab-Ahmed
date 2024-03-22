@@ -18,7 +18,8 @@
 </h1>
 
 <div align="center">
-  <a href="https://app.daily.dev/bouab_ahmed_"><img src="https://api.daily.dev/devcards/v2/M7169nDFTMlps6FLJyJEc.png?r=qz1&type=default" width="356" alt="Ahmed BOUAB's Dev Card"/></a>
+<!--   <a href="https://app.daily.dev/bouab_ahmed_"><img src="https://api.daily.dev/devcards/v2/M7169nDFTMlps6FLJyJEc.png?r=qz1&type=default" width="356" alt="Ahmed BOUAB's Dev Card"/></a> -->
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
